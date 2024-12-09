@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">eletrics cars</string>
+    <string name="title">Eletric Car</string>
+    <string name="carros">CARROS</string>
+    <string name="favoritos">FAVORITOS</string>
+    <string name="preco">Preço</string>
+    <string name="preco_value">R$ 12000</string>
+    <string name="bateria">Bateria</string>
+    <string name="potencia">Potência</string>
+    <string name="preco_kwh">Preço Kwh</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="km_pecorrido">km Pecorrido</string>
+</resources>
